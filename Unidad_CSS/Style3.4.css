@@ -1,0 +1,26 @@
+body {
+    font-size: 17px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+.contenedor {
+    float: left;
+    width: 250px;
+    height: 900px;
+    background-color: green;
+    color: aliceblue;
+    overflow: auto;
+    cursor: pointer;
+}
+
+.contenedor ul a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.contenedor ul a:hover {
+    background: #70e987;
+    cursor: pointer;
+}
