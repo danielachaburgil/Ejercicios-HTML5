@@ -9,7 +9,6 @@ body {
     width: 250px;
     height: 900px;
     background-color: green;
-    color: aliceblue;
     overflow: auto;
     cursor: pointer;
 }
